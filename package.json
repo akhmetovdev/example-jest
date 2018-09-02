@@ -1,0 +1,23 @@
+{
+  "name": "example-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhmetovdev/example-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhmetovdev/example-jest/issues"
+  },
+  "homepage": "https://github.com/akhmetovdev/example-jest#readme",
+  "dependencies": {
+    "jest": "^23.5.0"
+  }
+}
